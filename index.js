@@ -10,7 +10,7 @@ const postRoute = require("./routes/posts");
 const commentRoute = require("./routes/comments");
 const cookieParser = require("cookie-parser");
 const path = require("path");
-import { fileURLToPath } from "url";
+// import { fileURLToPath } from "url";
 
 dotenv.config();
 
